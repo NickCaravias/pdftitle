@@ -1,5 +1,9 @@
 # pdftitle
 
+## Changes in forked repo
+I forked this repo to make changes to the how the titles are extracted but I wanted to use the core functions. Added a function to extract more than just the largest similar text from the first page. 
+
+
 The commandline tool `pdftitle` is a Python implementation of the
 *SciPlore Xtract*[1] paper, using mostly a structural layout analysis.
 
